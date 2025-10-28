@@ -1,0 +1,15 @@
+[
+  {
+    "id": "mhb4zp0bjac8f7",
+    "title": "Remera",
+    "description": "Remera de algodón",
+    "code": "REM001",
+    "price": 1200,
+    "status": true,
+    "stock": 10,
+    "category": "indumentaria",
+    "thumbnails": [
+      "/img/rem1.jpg"
+    ]
+  }
+]
